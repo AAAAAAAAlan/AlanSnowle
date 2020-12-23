@@ -13,10 +13,7 @@
 
 - ⚠️ Я использую бесплатные сервисы для развёртывания моих приложений, поэтому они могут загружаться не так быстро, как мне хотелось бы :)
 
-<br />
-
 ---
-<br />
 
 [<img align="center" alt="HABR_CAREER" width="80px" src="https://ampere-store.ru/image/cache/catalog/habr-800x600.png" />][HABR_CAREER]
 [<img align="center" alt="HH" width="29px" src="https://tech.hh.ru/api/logos/min-hh-red.png" />][HH]
